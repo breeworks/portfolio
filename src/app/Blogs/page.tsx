@@ -9,15 +9,13 @@ export default function Page() {
       </span>
       <div className="mb-5">
           <span className="font-semibold">
-        {/* posting soon */}
-          {/* <a href="https://www.notion.so/NEXT-JS-17b780a2188f80ca90dcd0e55d9054e1" rel='noopener noreferrer' target='_blank' className='ml-1' > nextjs in depth </a> */}
-          coming soon 🔜
+          React&apos;s reconciliation process
+          <a href="https://www.notion.so/React-s-reconciliation-process-17d780a2188f80529b0dc13041fe0df3" rel='noopener noreferrer' target='_blank' className='ml-1' > nextjs in depth </a>
           </span>
-        <p className="p-2 text-gray-600">
-        this is a blog on ....🤔
-        </p>
+            <p className="p-3 text-gray-600"> explained about the reconciliation in react </p>
       </div>
       {/* footer */}
       <Footer />
-    </main>  )
+    </main>  
+    );
 }

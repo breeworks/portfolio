@@ -16,8 +16,10 @@ export default function Main() {
           <section className="mb-12">
             <h2 className="text-xl mb-4">experience</h2>
             <ul className="list-disc list-inside space-y-2">
-              verry soon
+              <li>verry soon</li>
+              <Link href="/freelance"><li>freelance work</li></Link>
             </ul>
+
           </section>
     
           {/* Projects */}
@@ -34,7 +36,7 @@ export default function Main() {
           <section className="mb-12">
             <h2 className="text-xl mb-4">blogs</h2>
             <ul className="list-disc list-inside space-y-2">
-              <Link href="/Blogs"><li>technical blogs</li></Link>
+              <Link href="/Blogs"><li> devs blogs</li></Link>
             </ul>
           </section>
     
