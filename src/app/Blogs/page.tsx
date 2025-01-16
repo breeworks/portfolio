@@ -7,14 +7,15 @@ export default function Page() {
       <span className="flex items-center justify-center text-xl font-semibold p-6">
         devs blogs 
       </span>
-      <div className="mb-5">
-          <span className="font-semibold">
-          <a href="https://www.notion.so/React-s-reconciliation-process-17d780a2188f80529b0dc13041fe0df3" rel='noopener noreferrer' target='_blank' className='ml-1' > React&apos;s reconciliation process
+      <div>
+          <span className="font-semibold"> React.js </span>
+          <a href="https://lydian-rhubarb-93e.notion.site/React-s-reconciliation-process-17d780a2188f80529b0dc13041fe0df3" rel='noopener noreferrer' target='_blank' > 
+            <p className="p-3 text-gray-600"> explained about the <b>reconciliation</b> in react.js </p>
           </a>
-          </span>
-            <p className="p-3 text-gray-600"> explained about the reconciliation in react.js </p>
+          <a href="https://lydian-rhubarb-93e.notion.site/Diffing-Algorithm-17d780a2188f80aa8de4c100e87cdc49" rel='noopener noreferrer' target='_blank' > 
+            <p className="p-3 text-gray-600"> explained about <b>the diffing algorithm</b> in react.js </p>
+          </a>
       </div>
-      {/* footer */}
       <Footer />
     </main>  
     );
