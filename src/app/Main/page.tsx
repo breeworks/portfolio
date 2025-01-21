@@ -8,7 +8,7 @@ export default function Main() {
           <section className="mb-12">
             {/* pleaseee get a cool name */}
             <h1 className="text-2xl mb-4">hi, i am disha!</h1>
-            <p className="mb-2">i am a third year student, studying computer science.</p>
+            <p className="mb-2">i am a third year student, studying data science.</p>
             <p>mainly work in software development.</p>
           </section>
     
