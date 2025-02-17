@@ -17,7 +17,6 @@ export default function Main() {
             <h2 className="text-xl mb-4">experience</h2>
             <ul className="list-disc list-inside space-y-2">
               <li>verry soon</li>
-              <Link href="/freelance"><li>freelance work</li></Link>
             </ul>
 
           </section>
