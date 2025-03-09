@@ -12,7 +12,7 @@ export default function Page() {
       <div className="mb-5">
         <p className="p-2 text-gray-600 font-semibold"><span className='text-xl'></span></p>
         <div className="mb-5">
-        <Link href="https://github.com/dishafaujdar/QR-generator">
+        <Link href="https://github.com/breeworks/QR-generator">
           <span className="font-semibold">
           Web site that create QR.
           </span>

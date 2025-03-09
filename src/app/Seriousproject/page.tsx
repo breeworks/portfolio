@@ -8,7 +8,7 @@ export default function Page() {
         serious projects
       </span>
       <div className="mb-5">
-        <Link href="https://github.com/dishafaujdar/chrome-ext">
+        <Link href="https://github.com/breeworks/chrome-ext">
           <span className="font-semibold">
             This chrome extension helps to watch the filtered content of the
             user&apos;s choice{" "}
@@ -21,7 +21,7 @@ export default function Page() {
         </p>
       </div>
       <div className="mb-5">
-        <Link href="https://github.com/dishafaujdar/muse">
+        <Link href="https://github.com/breeworks/muse">
           <span className="font-semibold">
             This help in transforming the old interior to new
           </span>
@@ -33,7 +33,7 @@ export default function Page() {
         </p>
       </div>
       <div className="mb-5">
-        <Link href="https://github.com/dishafaujdar/coupons">
+        <Link href="https://github.com/breeworks/coupons">
           <span className="font-semibold">
             Website where user can share the rewards
           </span>

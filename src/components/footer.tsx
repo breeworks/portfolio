@@ -7,7 +7,7 @@ export default function Footer() {
             <nav className="space-x-3">
               <a href="mailto:dishachoudhary1102@gmail.com" rel='noopener noreferrer' target='_blank'  className="hover:underline">gmail</a>
             <span>|</span>
-              <a href="https://github.com/dishafaujdar" rel='noopener noreferrer' target='_blank' className="hover:underline">github</a>
+              <a href="https://github.com/breeworks" rel='noopener noreferrer' target='_blank' className="hover:underline">github</a>
               <span>|</span>
               <a href="https://docs.google.com/document/d/1pPnCgx1BH2N7r6nvRZI8Rr2Dkbsjk9E0wNn5paHdS6E/edit?usp=sharing" rel='noopener noreferrer' target='_blank' className="hover:underline">resume</a>
             </nav>
