@@ -35,14 +35,14 @@ export default function Main() {
           <section className="mb-12">
             <h2 className="text-xl mb-4">blogs</h2>
             <ul className="list-disc list-inside space-y-2">
-              <Link href="/Blogs"><li> devs blogs</li></Link>
+              <Link href="/Blogs"><li> devs blogs </li></Link>
             </ul>
           </section>
     
           {/* Footer */}
           <footer className="pt-8 mt-16 border-t text-center">
           <nav className="space-x-3">
-              <a href="https://www.x.com/dishafaujdar" rel='noopener noreferrer' target='_blank'  className="hover:underline">twitter</a>
+              <a href="https://www.x.com/dishaztwts" rel='noopener noreferrer' target='_blank'  className="hover:underline">twitter</a>
               <span>|</span>
               <a href="https://www.linkedin.com/in/disha-faujdar-df1102/" rel='noopener noreferrer' target='_blank'  className="hover:underline">linkedin</a>
             </nav>
