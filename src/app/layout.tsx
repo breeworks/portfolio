@@ -8,8 +8,8 @@ const spaceMono = Space_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Disha Faujdar 🦌',
-  description: 'Personal portfolio of a computer science student',
+  title: 'Disha Faujdar',
+  description: 'Personal portfolio of a data science student',
 }
 
 export default function RootLayout({

@@ -11,7 +11,7 @@ export default function Page() {
         <Link href="https://github.com/breeworks/chrome-ext">
           <span className="font-semibold">
             This chrome extension helps to watch the filtered content of the
-            user&apos;s choice{" "}
+            user&apos;s choice !
           </span>
         </Link>
         <p className="p-2 text-gray-600">
@@ -23,7 +23,7 @@ export default function Page() {
       <div className="mb-5">
         <Link href="https://github.com/breeworks/muse">
           <span className="font-semibold">
-            This help in transforming the old interior to new
+            This help in transforming the old interior to new !
           </span>
         </Link>
         <p className="p-2 text-gray-600">
@@ -35,7 +35,7 @@ export default function Page() {
       <div className="mb-5">
         <Link href="https://github.com/breeworks/coupons">
           <span className="font-semibold">
-            Website where user can share the rewards
+            Website where user can share the rewards !
           </span>
         </Link>
         <p className="p-2 text-gray-600"> A unique platform that allows users to buy, sell, or exchange rewards,

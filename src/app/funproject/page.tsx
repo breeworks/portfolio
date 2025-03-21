@@ -14,11 +14,21 @@ export default function Page() {
         <div className="mb-5">
         <Link href="https://github.com/breeworks/QR-generator">
           <span className="font-semibold">
-          Web site that create QR.
+          Web site that create QR !
           </span>
         </Link>
         <p className="p-2 text-gray-600">
           Make your own QR. Just for fun 😃
+        </p>
+      </div>
+      <div className="mb-5">
+        <Link href="https://github.com/breeworks/matrix">
+          <span className="font-semibold">
+          Matrix — a tool to help users track their daily progress ! 🚀
+          </span>
+        </Link>
+        <p className="p-2 text-gray-600">
+        With Matrix, you can monitor your achievements, set goals, and see how far you’ve come—all in one place. It’s like having a personal growth dashboard that keeps you motivated every day. Whether it’s productivity, fitness, or personal habits, Matrix helps you stay on track and push forward.
         </p>
       </div>
       </div>     

@@ -9,7 +9,7 @@ export default function Footer() {
             <span>|</span>
               <a href="https://github.com/breeworks" rel='noopener noreferrer' target='_blank' className="hover:underline">github</a>
               <span>|</span>
-              <a href="https://docs.google.com/document/d/1pPnCgx1BH2N7r6nvRZI8Rr2Dkbsjk9E0wNn5paHdS6E/edit?usp=sharing" rel='noopener noreferrer' target='_blank' className="hover:underline">resume</a>
+              <a href="https://docs.google.com/document/d/1-kSOAdsLzVboK2Sg5K1iWwVZDOS2cZPDiX-4kBLbhMY/edit?usp=sharing" rel='noopener noreferrer' target='_blank' className="hover:underline">resume</a>
             </nav>
           </footer>
     </div>
