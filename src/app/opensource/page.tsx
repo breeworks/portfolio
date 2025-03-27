@@ -8,16 +8,27 @@ export default function Page() {
         open source contributions
       </span>
       <div className="mb-5">
+      <ul className="list-disc list-inside space-y-1">
+        <li>
           <span className="font-semibold">
           fix: css alignment of calendar component on the home page 
           <a href="https://github.com/asyncapi/website/pull/3276" rel='noopener noreferrer' target='_blank' className='ml-1' > #3276 </a>
           </span>
-        <p className="p-2 text-gray-600">
-        <ul className="list-disc list-inside space-y-1">
-          <li> Fixed the alignment of &quot;Join our public meeting&quot; on the home page. </li>
-          <li> Change the calendar card to the height, the same as that of the slack card for the desktop view. </li>  
-        </ul>
-        </p>
+        </li>
+        <li>
+          <span className="font-semibold">
+          fix: Align index number with text for smaller devices  
+          <a href="https://github.com/trpc/trpc/pull/6639" rel='noopener noreferrer' target='_blank' className='ml-1' > #6639 </a>
+          </span>
+        </li>
+        <li>
+          <span className="font-semibold">
+          fix: created a margin between buttons  
+          <a href="https://github.com/yangshun/tech-interview-handbook/pull/693" rel='noopener noreferrer' target='_blank' className='ml-1' > #693 </a>
+          </span>
+        </li>
+
+      </ul>
       </div>
       {/* footer */}
       <Footer />
