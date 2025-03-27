@@ -8,7 +8,7 @@ const spaceMono = Space_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Disha Faujdar',
+  title: `disha faujdar🌻`,
   description: 'Personal portfolio of a data science student',
 }
 

@@ -12,7 +12,7 @@ export default function Page() {
       <div className="mb-5">
         <p className="p-2 text-gray-600 font-semibold"><span className='text-xl'></span></p>
         <div className="mb-5">
-        <Link href="https://github.com/breeworks/QR-generator">
+        <Link href="https://github.com/breeworks/QR-generator" rel='noopener noreferrer' target='_blank'>
           <span className="font-semibold">
           Web site that create QR !
           </span>
@@ -22,7 +22,7 @@ export default function Page() {
         </p>
       </div>
       <div className="mb-5">
-        <Link href="https://github.com/breeworks/matrix">
+        <Link href="https://daily-matrix.vercel.app" rel='noopener noreferrer' target='_blank'>
           <span className="font-semibold">
           Matrix — a tool to help users track their daily progress ! 🚀
           </span>

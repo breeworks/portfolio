@@ -7,9 +7,9 @@ export default function Main() {
           {/* Introduction */}
           <section className="mb-12">
             {/* pleaseee get a cool name */}
-            <h1 className="text-2xl mb-4">hi, i am disha!</h1>
-            <p className="mb-2">i am a third year student, studying data science.</p>
-            <p>mainly work in software development.</p>
+            <h1 className="text-2xl mb-4">hi, i am disha🌻</h1>
+            <p className="mb-2">i am a third-year student studying Data Science,</p>
+            <p>primarily work in software engineering.</p>
           </section>
     
           {/* Experience */}
@@ -24,7 +24,7 @@ export default function Main() {
           {/* Projects */}
           <section className="mb-12">
             <h2 className="text-xl mb-4">projects</h2>
-            <ul className="list-disc list-inside space-y-2">
+            <ul className="list-disc list-inside space-y-2 ">
               <Link href="Seriousproject"> <li>serious projects</li> </Link>
               <Link href="funproject"> <li>fun projects</li> </Link>
               <Link href="/opensource"><li>open source contribution</li></Link>

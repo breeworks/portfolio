@@ -1,4 +1,4 @@
-import Footer from '@/components/footer'
+import { FiCoffee } from "react-icons/fi";
 import React from 'react'
 
 export default function Page() {
@@ -16,7 +16,22 @@ export default function Page() {
             <p className="p-3 text-gray-600"> explained about <b>the diffing algorithm</b> in react.js </p>
           </a>
       </div>
-      <Footer />
+      <div>
+      <footer className="pt-8 mt-16 border-t text-center flex items-center justify-center">
+      <nav className="flex items-center space-x-3">
+        <a href="mailto:dishachoudhary1102@gmail.com" rel="noopener noreferrer" target="_blank" className="hover:underline">gmail</a>
+        <span>|</span>
+        <a href="https://github.com/breeworks" rel="noopener noreferrer" target="_blank" className="hover:underline">github</a>
+        <span>|</span>
+        <a href="https://docs.google.com/document/d/1-kSOAdsLzVboK2Sg5K1iWwVZDOS2cZPDiX-4kBLbhMY/edit?usp=sharing" rel="noopener noreferrer" target="_blank" className="hover:underline">resume</a>
+        <span>|</span>
+        <a href="https://www.buymeacoffee.com/yourusername" rel="noopener noreferrer" target="_blank" className="hover:underline flex items-center space-x-1">
+          <span>buymeacoffee</span>
+          <FiCoffee className="size-5 mb-1" />
+        </a>
+      </nav>
+    </footer>
+    </div>
     </main>  
     );
 }
