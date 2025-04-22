@@ -42,7 +42,7 @@ export default function Main() {
           {/* Footer */}
           <footer className="pt-8 mt-16 border-t text-center">
           <nav className="space-x-3">
-              <a href="https://www.x.com/dishaztwts" rel='noopener noreferrer' target='_blank'  className="hover:underline">twitter</a>
+              <a href="https://www.x.com/maidishahoon" rel='noopener noreferrer' target='_blank'  className="hover:underline">twitter</a>
               <span>|</span>
               <a href="https://www.linkedin.com/in/disha-faujdar-df1102/" rel='noopener noreferrer' target='_blank'  className="hover:underline">linkedin</a>
             </nav>
