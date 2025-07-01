@@ -45,6 +45,8 @@ export default function Main() {
               <a href="https://www.x.com/maidishahoon" rel='noopener noreferrer' target='_blank'  className="hover:underline">twitter</a>
               <span>|</span>
               <a href="https://www.linkedin.com/in/disha-faujdar-df1102/" rel='noopener noreferrer' target='_blank'  className="hover:underline">linkedin</a>
+              <span>|</span>
+              <a href="/contactMe" rel='noopener noreferrer' target='_blank' className="hover:underline">contactMe</a>
             </nav>
           </footer>
         </main>
