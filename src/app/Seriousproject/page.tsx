@@ -41,6 +41,14 @@ export default function Page() {
         <p className="p-2 text-gray-600"> A unique platform that allows users to buy, sell, or exchange rewards,
           coupons, and cashback offers they receive from digital wallets.</p>
       </div>
+      <div className="mb-5">
+        <Link href="https://github.com/dishafaujdar/playground">
+          <span className="font-semibold">
+            Multiplayer Competitive Coding Platform [🚧 Work-in-progress]
+          </span>
+        </Link>
+        <p className="p-2 text-gray-600"> Real-time DSA battle platform where two users compete using a unique code, with dynamic problem sets, Judge0-powered code evaluation, and live interactions via a custom WebSocket server.</p>
+      </div>
       {/* footer */}
       <Footer />
     </main>
